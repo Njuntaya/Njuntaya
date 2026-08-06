@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, Nutthawut Juntaya (Beers)</h1>
+<h3 align="center">Welcome to my GitHub profile ✨</h3>
 
-<!--
-**Njuntaya/Njuntaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EC866&center=true&vCenter=true&width=500&lines=Student+Software+engineering;Always+learning+something+new;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Njuntaya&label=Profile+Views&color=2ec866&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Njuntaya?label=Followers&style=flat&color=2ec866" alt="followers" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 About Me
+
+
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github,docker" alt="tech stack icons" />
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Njuntaya&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="github stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njuntaya&layout=compact&theme=algolia&hide_border=true" alt="top langs" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Njuntaya&theme=algolia&hide_border=true" alt="streak stats" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Njuntaya/Njuntaya/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Njuntaya/Njuntaya/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Njuntaya/Njuntaya/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br />
+<hr />
+
+<h3 align="center">⚔️ MARVEL SHOWDOWN ⚔️</h3>
+
+<p align="center">
+  <a href="https://marvel.com">
+    <img src="https://img.shields.io/badge/IRON_MAN-VS-RED?style=for-the-badge&logo=marvel&logoColor=white" />
+    <img src="https://img.shields.io/badge/CAPTAIN_AMERICA-BLUE?style=for-the-badge&logo=marvel&logoColor=white" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🔴 Team Iron Man</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9sdGk3Z291dm5tNHVsZDNwcW12bDJvZGJyZnRtbXJmdW5yMmRzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wE3fSc3X2O3oI/giphy.gif" width="100%" alt="Iron Man" />
+      <p><b>Power:</b> 95/100 | <b>Tech:</b> 100/100</p>
+    </td>
+    <td align="center" width="50%">
+      <h4>🔵 Team Captain America</h4>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZtdnhvMXVlYXo3MXI3YmdxbnFvZG45Y3pwaHQwYmVvNG9ocHNpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1d7F9xyq6j7C1emaC5/giphy.gif" width="100%" alt="Captain America" />
+      <p><b>Power:</b> 90/100 | <b>Combat:</b> 100/100</p>
+    </td>
+  </tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Njuntaya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- แก้ลิงก์ด้านล่างเป็นของคุณเอง -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/rainbow.gif" width="100%" />
+</p>
