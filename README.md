@@ -35,37 +35,27 @@
 </td>
 <td width="50%" valign="top" align="center">
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Njuntaya/Njuntaya/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Njuntaya/Njuntaya/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Njuntaya/Njuntaya/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br />
-<hr />
-
-<h3 align="center">⚔️ MARVEL SHOWDOWN ⚔️</h3>
+<h3 align="center">⚔️ MARVEL PIXEL SHOWDOWN ⚔️</h3>
 
 <p align="center">
-  <a href="https://marvel.com">
-    <img src="https://img.shields.io/badge/IRON_MAN-VS-RED?style=for-the-badge&logo=marvel&logoColor=white" />
-    <img src="https://img.shields.io/badge/CAPTAIN_AMERICA-BLUE?style=for-the-badge&logo=marvel&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/IRON_MAN-VS-RED?style=for-the-badge&logo=marvel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAPTAIN_AMERICA-BLUE?style=for-the-badge&logo=marvel&logoColor=white" />
 </p>
 
-<table align="center">
+<!-- Pixel Art Fighting Scene -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dpeDR2YmUwaHB5cnpwaTYya2VybDdyYTh0YXNxcGFxdzFnZjljdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2Xzp4i67T2P4JmZzB/giphy.gif" width="100%" alt="Marvel Pixel Fight" />
+</p>
+
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <h4>🔴 Team Iron Man</h4>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9sdGk3Z291dm5tNHVsZDNwcW12bDJvZGJyZnRtbXJmdW5yMmRzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wE3fSc3X2O3oI/giphy.gif" width="100%" alt="Iron Man" />
-      <p><b>Power:</b> 95/100 | <b>Tech:</b> 100/100</p>
+      <p><b>Power:</b> 95/100<br/><b>Tech:</b> 100/100</p>
     </td>
     <td align="center" width="50%">
       <h4>🔵 Team Captain America</h4>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZtdnhvMXVlYXo3MXI3YmdxbnFvZG45Y3pwaHQwYmVvNG9ocHNpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1d7F9xyq6j7C1emaC5/giphy.gif" width="100%" alt="Captain America" />
-      <p><b>Power:</b> 90/100 | <b>Combat:</b> 100/100</p>
+      <p><b>Power:</b> 90/100<br/><b>Combat:</b> 100/100</p>
     </td>
   </tr>
 </table>
