@@ -47,22 +47,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dpeDR2YmUwaHB5cnpwaTYya2VybDdyYTh0YXNxcGFxdzFnZjljdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2Xzp4i67T2P4JmZzB/giphy.gif" width="100%" alt="Marvel Pixel Fight" />
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h4>🔴 Team Iron Man</h4>
-      <p><b>Power:</b> 95/100<br/><b>Tech:</b> 100/100</p>
-    </td>
-    <td align="center" width="50%">
-      <h4>🔵 Team Captain America</h4>
-      <p><b>Power:</b> 90/100<br/><b>Combat:</b> 100/100</p>
-    </td>
-  </tr>
-</table>
-
-</td>
-</tr>
-</table>
 
 ---
 
