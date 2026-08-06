@@ -35,17 +35,6 @@
 </td>
 <td width="50%" valign="top" align="center">
 
-<h3 align="center">⚔️ MARVEL PIXEL SHOWDOWN ⚔️</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IRON_MAN-VS-RED?style=for-the-badge&logo=marvel&logoColor=white" />
-  <img src="https://img.shields.io/badge/CAPTAIN_AMERICA-BLUE?style=for-the-badge&logo=marvel&logoColor=white" />
-</p>
-
-<!-- Pixel Art Fighting Scene -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dpeDR2YmUwaHB5cnpwaTYya2VybDdyYTh0YXNxcGFxdzFnZjljdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2Xzp4i67T2P4JmZzB/giphy.gif" width="100%" alt="Marvel Pixel Fight" />
-</p>
 
 
 ---
