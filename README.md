@@ -7,7 +7,7 @@
   *"Perfectly balanced code, as all things should be."*
 ---
 ### 📊 GitHub Activity & Stats
-<b>Commit Contributions (จุดสีเขียวแห่งความขยัน)</b>
+<b>Commit Contributions</b>
 <div align="center">
   <img src="https://ghchart.rshah.org/216e39/Njuntaya" alt="GitHub Contribution Graph" width="100%" />
 </div>
